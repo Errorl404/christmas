@@ -111,7 +111,7 @@ function createGift() {
   const messages = [
     '🎁 Chúc mừng! Bạn nhận được một điều ước',
     '🎄 Giáng sinh an lành!',
-    '⭐ Giáng sinh vui vẻ ngoại lệ của tôi!',
+    '⭐ Giáng sinh vui vẻ nha!',
     '🎅 Ho Ho Ho! Quà từ ông già Noel',
   ];
 
